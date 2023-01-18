@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\HomeWork2\task27\bin\Debug\net7.0\task27.exe
+C:\Users\Ирина\Desktop\HomeWork2\task27\bin\Debug\net7.0\task27.deps.json
+C:\Users\Ирина\Desktop\HomeWork2\task27\bin\Debug\net7.0\task27.runtimeconfig.json
+C:\Users\Ирина\Desktop\HomeWork2\task27\bin\Debug\net7.0\task27.dll
+C:\Users\Ирина\Desktop\HomeWork2\task27\bin\Debug\net7.0\task27.pdb
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.dll
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\refint\task27.dll
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.pdb
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\task27.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\HomeWork2\task27\obj\Debug\net7.0\ref\task27.dll
